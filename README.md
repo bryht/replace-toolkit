@@ -1,2 +1,2 @@
 # replace-toolkit
-A tool for replacing a value for all files/folders/file content  under a folder
+A tool for replacing a value for all file names&folder names*file contents  under a folder
