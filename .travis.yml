@@ -1,0 +1,4 @@
+deploy:
+  provider: npm
+  email: "bryht@live.com"
+  api_key: ""
