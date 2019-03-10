@@ -16,7 +16,7 @@ var newValue = args[1];
 renameFilesSync('./');
 
 
-var exts = [".cs", ".json", ".sln", ".csproj", ".dockerignore", ".gitignore", ".Production"];
+var exts = [".cs", ".json", ".sln", ".csproj", ".dockerignore", ".gitignore", ".Production",".yml"];
 
 async function renameFilesSync(dir) {
 
