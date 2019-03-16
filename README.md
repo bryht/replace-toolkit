@@ -13,3 +13,11 @@ open powershell or cmd
 ```powershell
 replace-toolkit oldValue newValue
 ```
+only change file name
+```powershell
+replace-toolkit oldValue newValue -f
+```
+only change file content
+```powershell
+replace-toolkit oldValue newValue -c
+```
